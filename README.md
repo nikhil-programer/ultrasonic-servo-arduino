@@ -1,3 +1,3 @@
-# -ultrasonic-servo-arduino-
+# ultrasonic-servo-arduino
 
 
